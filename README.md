@@ -8,7 +8,7 @@ The yolov3 models are taken from the official yolov3 paper which was released in
 1) Clone the repository
 
 ```
-git clone https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV.git
+git clone https://github.com/aryxns/yolo-v3.git
 ```
 
 2) Move to the directory
